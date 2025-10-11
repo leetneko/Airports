@@ -1020,7 +1020,7 @@ BSV,,Besakoa,-15.672487,47.06196244444436,22,,Indian/Antananarivo,BSV,MG,Marovoa
 BSW,AK97,Boswell Bay,60.4223364,-146.1445823,72,,America/Anchorage,BSW,US,,,,AP
 BSX,VYPN,Bassein,16.813601400000003,94.77532425417502,29,,Asia/Rangoon,BSX,MM,Pathein,Ayeyarwady,,AP
 BSY,HCMD,Bardera,2.329012,42.3115383,383,,Africa/Mogadishu,BSY,SO,Baardheere,Gedo,,AP
-BSZ,,Bartletts,58.233612,-157.35028,26,,America/Anchorage,BSZ,US,,,,AP
+BSZ,UCFM,Manas International Airport,43.0581795,74.46359489585606,2073,,Asia/Bishkek,FRU,KG,Bishkek,Chuy,,AP
 BTA,FKKO,Yaoundé,4.540833,13.7275,2158,,Africa/Douala,BTA,CM,Bertoua,East,,AP
 BTB,FCOT,Betou,3.05,18.5,1099,,Africa/Brazzaville,BTB,CG,Mongoumba,Lobaye,,AP
 BTC,VCCB,Batticaloa,7.70607375,81.67520240155659,19,,Asia/Colombo,BTC,LK,,,,AP
@@ -2551,7 +2551,7 @@ FRQ,AYFE,Feramin,-5.416667,141.7,5236,,Pacific/Port_Moresby,FRQ,PG,,,,AP
 FRR,KFRR,Front Royal-Warren County,38.91737455,-78.2547337875,682,,America/New_York,FRR,US,Front Royal,Virginia,Warren County,AP
 FRS,MGMM,Santa Elena Airport,16.916668,-89.88333,410,,America/Guatemala,FRS,GT,Flores,Peten,Municipio de Flores,AP
 FRT,SCEV,Frutillar,-41.129892,-73.06417233013931,479,,America/Santiago,FRT,CL,Frutillar,Los Lagos,Provincia de Llanquihue,AP
-FRU,UCFM,Manas International Airport,43.0581795,74.46359489585606,2073,,Asia/Bishkek,FRU,KG,Bishkek,Chuy,,AP
+FRU,UCFM,Manas International Airport,43.061389,74.4775,2090,,Asia/Bishkek,FRU,KG,Bishkek,Chuy,,AP
 FRW,FBFT,Francistown Airport,-21.15918875,27.471582024432315,3264,,Africa/Gaborone,FRW,BW,Francistown,North East,,AP
 FRY,KIZG,Fryeburg,43.9900665,-70.94755088747952,403,,America/New_York,FRY,US,Fryeburg,Maine,Oxford County,AP
 FRZ,ETHF,Fritzlar Airbase,51.11667,9.266667,570,,Europe/Berlin,FRZ,DE,Fritzlar,Hesse,,AP
